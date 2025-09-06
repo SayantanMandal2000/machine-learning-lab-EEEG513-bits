@@ -43,14 +43,6 @@ Each lab folder contains:
 - *An Introduction to Statistical Learning* – James, Witten, Hastie, Tibshirani  
 
 ---
-
-## 📌 Evaluation Scheme (as per course handout)
-- **Lab Assignments + Project** – 25%  
-- **Quizzes** – 15%  
-- **Mid-Sem Exam** – 30%  
-- **Comprehensive Exam** – 30%  
-
----
 ## ✨ Acknowledgements
 BITS Pilani Hyderabad Campus  
 EEE G513 – Machine Learning for Electronics Engineers  
