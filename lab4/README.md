@@ -69,6 +69,7 @@ Perform logistic regression on a larger dataset and classify new samples.
 
 Final model equation:  
 $$
+
 P(x) = \frac{1}{1 + e^{-(-9.58 + 2.74x)}}
 $$
 
