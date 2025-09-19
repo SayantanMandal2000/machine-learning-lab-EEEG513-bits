@@ -38,9 +38,10 @@ Build a logistic regression model to classify data points based on a single pred
 - Iteration 2: β = [-6.544, 0.759]  
 
 Final model equation:  
-\[
-P(x) = \frac{1}{1 + e^{-(-6.54 + 0.759x)}}
-\]
+
+$$
+P(x) = \frac{1}{1 + e^{-(-9.58 + 2.74x)}}
+$$
 
 **Prediction (x = 5):**
 - Predicted Probability: **0.0602**  
@@ -67,9 +68,9 @@ Perform logistic regression on a larger dataset and classify new samples.
 - Iteration 3: β = [-9.585, 2.742]  
 
 Final model equation:  
-\[
+$$
 P(x) = \frac{1}{1 + e^{-(-9.58 + 2.74x)}}
-\]
+$$
 
 **Predictions:**
 - Input x = 2.5 → Probability = **0.0613**, Classified Label = **0**  
